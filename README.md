@@ -50,7 +50,6 @@ ii)	Create Schematic Cell view.
 ![image](https://github.com/user-attachments/assets/1945d666-3d66-40cb-acd9-f059239074dc)
 
 
-![image](https://github.com/user-attachments/assets/c94ddb1e-768d-4a2f-ac64-87f3e2eae240)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -79,6 +78,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
+![vlsi54](https://github.com/user-attachments/assets/9b012ed6-b83a-49c8-a1fc-2e4c247ab608)
 
 
  
@@ -92,11 +92,13 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
+![vlsi52](https://github.com/user-attachments/assets/abca4430-af71-4216-ab05-50229fc84153)
 
 
 
 For Transient Analysis Settings and Output
  
+![vlsi53](https://github.com/user-attachments/assets/e9be0f9e-e67d-4f98-8768-e47567cfcedb)
 
 
 
